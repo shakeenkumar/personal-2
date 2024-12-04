@@ -1,8 +1,8 @@
 // Define an array of eco-friendly products
 const ecoProducts = [
-    { name: "Reusable Water Bottle", price: "$10" },
-    { name: "Organic Cotton T-Shirt", price: "$20" },
-    { name: "Bamboo Toothbrush", price: "$5" }
+    { name: "Reusable Water Bottle", price: "$10", image: "images/product1.jpg" },
+    { name: "Organic Cotton T-Shirt", price: "$20", image: "images/product2.jpg" },
+    { name: "Bamboo Toothbrush", price: "$5", image: "images/product3.jpg" }
   ];
   
   // Function to render products dynamically
